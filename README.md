@@ -1,0 +1,1 @@
+# CollaborativeDevelopmentContract_ja-JP
