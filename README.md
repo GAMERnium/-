@@ -1,1 +1,1 @@
-# CollaborativeDevelopmentContract_ja-JP
+共同開発を行う際に結んでおいた方が良いかもしれない契約書のひな形(日本語)
